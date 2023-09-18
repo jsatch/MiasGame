@@ -1,0 +1,74 @@
+[
+	{
+		"file": "C:\\Users\\herna\\Documents\\Unreal Projects\\MiasGame\\Source\\MiasGame\\Mia.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\herna\\Documents\\Unreal Projects\\MiasGame\\.vscode\\compileCommands_Default\\MiasGame.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\herna\\Documents\\Unreal Projects\\MiasGame\\Source\\MiasGame\\Mia.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\herna\\Documents\\Unreal Projects\\MiasGame\\.vscode\\compileCommands_Default\\MiasGame.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\herna\\Documents\\Unreal Projects\\MiasGame\\Source\\MiasGame\\MiasGame.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\herna\\Documents\\Unreal Projects\\MiasGame\\.vscode\\compileCommands_Default\\MiasGame.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\herna\\Documents\\Unreal Projects\\MiasGame\\Source\\MiasGame\\MiasGame.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\herna\\Documents\\Unreal Projects\\MiasGame\\.vscode\\compileCommands_Default\\MiasGame.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\herna\\Documents\\Unreal Projects\\MiasGame\\Source\\MiasGame\\MiasGame.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\herna\\Documents\\Unreal Projects\\MiasGame\\.vscode\\compileCommands_Default\\MiasGame.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\herna\\Documents\\Unreal Projects\\MiasGame\\Source\\MiasGame\\MiasGameGameModeBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\herna\\Documents\\Unreal Projects\\MiasGame\\.vscode\\compileCommands_Default\\MiasGame.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\herna\\Documents\\Unreal Projects\\MiasGame\\Source\\MiasGame\\MiasGameGameModeBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\herna\\Documents\\Unreal Projects\\MiasGame\\.vscode\\compileCommands_Default\\MiasGame.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\herna\\Documents\\Unreal Projects\\MiasGame\\Source\\MiasGame\\MiasPlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\herna\\Documents\\Unreal Projects\\MiasGame\\.vscode\\compileCommands_Default\\MiasGame.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\herna\\Documents\\Unreal Projects\\MiasGame\\Source\\MiasGame\\MiasPlayerController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\herna\\Documents\\Unreal Projects\\MiasGame\\.vscode\\compileCommands_Default\\MiasGame.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	}
+]
